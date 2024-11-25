@@ -14,6 +14,7 @@ The dataset is collected using the OPT8241CDK TOF 3D camera, where different con
 The code folder contains model files, training code, and testing software. The testing software is used to view the model's 3D reconstruction results, while the training code is used to train our model using paired clear and blurred images, with the clear images serving as prior reference knowledge. Our code is written in MATLAB.
 
 ## Reconstruction Results of Targets at Different Concentrations
+We achieved 3D reconstruction of the target in milk turbid liquids with concentrations of 0.16%, 0.24%, and 0.40%. Our experimental results demonstrated excellent performance.
 <div align="center">
   <img src="https://github.com/fyj0202/USI/blob/main/figure2.png" width="80%">
 </div> <br />
