@@ -4,5 +4,5 @@ This repository contains code for the paper _3D reconstruction method for target
 
 If required, email fang_yj@bitzh.edu.cn to obtain passwords for all datasets and experimental results.
 
-## Dataset
+## Experimental Setup & Datasets
 The dataset is collected using the OPT8241CDK TOF 3D camera, where different concentrations of milk are used to simulate varying levels of turbidity in the turbid water medium. The blurred image data is collected through turbid water, while the corresponding clear images are obtained through a clear water collection method. The target for testing was a plaster statue characterized by complex geometric features and uniform optical reflectivity.
