@@ -15,5 +15,5 @@ The code folder contains model files, training code, and testing software. The t
 
 ## Reconstruction Results of Targets at Different Concentrations
 <div align="center">
-  <img src="https://github.com/fyj0202/USI/blob/main/figure2.png" width="300px">
+  <img src="https://github.com/fyj0202/USI/blob/main/figure2.png" width="80%">
 </div> <br />
